@@ -1,0 +1,26 @@
+Vizag
+KFC_CMR-Large Popcorn-155-Chicken Rice Bowl-105-Mingler Bucket-199-6PC Smoky Grilled-200-5in1 Rice Box-159
+Eat and Meet-Chicken Dum Briyani-220-Veg.Briyani-190-Chicken Lollipop-160-Fried rice-150-sweet Corn Soup-50
+Dominos-Noodels Soup-60-paneer 65-140-Mushroom Manchurian-130-Paneer Manchurian-130-Chilli Chicken-150
+end
+Delhi
+India Accent-Chicken Dum Briyani-220-Veg.Briyani-190-Chicken Lollipop-160-Fried rice-150-sweet Corn Soup-50
+Veda Restaurant-Noodels Soup-60-paneer 65-140-Mushroom Manchurian-130-Paneer Manchurian-130-Chilli Chicken-150
+Zaffeas-Swhezwarn Noodels-129-French Fries-40-Bucket-250-Lollipops-240-Wings-160
+end
+Hyderabad
+Seasonal Tastes-lemon chicken-160-Paneer Tikka-160-Malaikofta-180-Shahi Paneer-170-Green Peas Masala-120
+Bawarchi Restaurant-Kadhai Vag-130-Egg Bhurji-159-egg Curry-199-Veg.Mixed Fried Rice-109-Singapore Noodels-200
+Chutneys-Swhezwarn Noodels-129-French Fries-40-Bucket-250-Lollipops-240-Wings-160
+end
+Banglore
+Karavalli-Swhezwarn Noodels-129-French Fries-40-Bucket-250-Lollipops-240-Wings-160
+High Ultra Lounge-Noodels Soup-60-paneer 65-140-Mushroom Manchurian-130-Paneer Manchurian-130-Chilli Chicken-150
+Samarkand Rastaurant-Chicken Dum Briyani-220-Veg.Briyani-190-Chicken Lollipop-160-Fried rice-150-sweet Corn Soup-50
+end
+Chennai
+Barbeque Nation-Noodels Soup-60-paneer 65-140-Mushroom Manchurian-130-Paneer Manchurian-130-Chilli Chicken-150
+Benjarong Reataurant-Large Popcorn-155-Chicken Rice Bowl-105-Mingler Bucket-199-6PC Smoky Grilled-200-5in1 Rice Box-159
+Copper Chimney-Kadhai Vag-130-Egg Bhurji-159-egg Curry-199-Veg.Mixed Fried Rice-109-Singapore Noodels-200
+end
+
